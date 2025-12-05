@@ -1,6 +1,6 @@
 # Sorting_Visualizer
 
-See Project here-https://manthan2343.github.io/Sorting-Visualizer/
+See Project here-https://manthan0702.github.io/Sorting-Visualizer/
 
 A web application showcasing the inner workings of sorting algorithms.
 
